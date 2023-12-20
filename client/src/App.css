@@ -3,7 +3,7 @@
   padding: 0;
 }
 .container{
-  background-color: black;
+  background-color: rgb(92, 90, 90);
   height: 100vh;
   width: 100vw;
   overflow: hidden;
@@ -29,6 +29,12 @@ img {
   margin: 40px 0px;
   
   
+}
+.wrapper p{
+  font-size: 25px;
+}
+.wrapper a{
+  font-size: 20px;
 }
 .wrapper button{
    width: 150px;
